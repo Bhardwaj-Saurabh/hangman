@@ -19,7 +19,6 @@ conda activate venv
 ```
 git clone https://github.com/Bhardwaj-Saurabh/hangman.git
 ```
-
 # Usage instructions
 ```
 cd hangman/hangman
@@ -27,7 +26,6 @@ cd hangman/hangman
 ```
 python hangman_game.py
 ```
-
 # File structure of the project
 ```
 hangman
@@ -40,7 +38,6 @@ hangman
 ├── milestone_5.py          # experiments and project milestone
 
 ```
-
 # Author
 Saurabh Bhardwaj
 
