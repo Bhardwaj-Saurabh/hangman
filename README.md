@@ -36,7 +36,6 @@ hangman
 ├── milestone_3.py          # experiments and project milestone
 ├── milestone_4.py          # experiments and project milestone
 ├── milestone_5.py          # experiments and project milestone
-
 ```
 # Author
 Saurabh Bhardwaj
